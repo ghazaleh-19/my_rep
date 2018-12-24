@@ -6,7 +6,7 @@ public class Phone {
 		String[] name_user =new String[5];
 		String[] phone_user =new String[5];
 		for(int i=0;i<3;i++) {
-			
+		//gereftane moshakhasat	
 			Scanner input=new Scanner(System.in);
 			System.out.println("Enter Name "+ i + " : ");
 			name_user[i]=input.nextLine();
